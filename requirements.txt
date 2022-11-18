@@ -1,0 +1,4 @@
+sklearn
+Flask 
+pandas
+numpy
