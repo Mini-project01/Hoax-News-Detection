@@ -1,6 +1,6 @@
 # Hoax-News-Detection
 
-## Group Members --
+### Group Members --
 
 - Manthan Agarwal 
 - Mansi Gupta
@@ -16,3 +16,21 @@
 - Run `Fake_News_Det.py`, go to the `http://127.0.0.1:5000/`
 - By default we have executed it using Passive Agressive Classifier (since it gave highest accuracy), you can check it by using other ML models by making changes in the `Fake_News_Detection.ipynb` file.
 - You can check web app is working fine. Sometimes predictions may be wrong depending on the ML models accuracy.
+
+### Technology Stack --
+
+##### Front-end:
+  - HTML
+  - CSS
+  - JavaScript
+  
+##### Back-end:
+  - Python 3.10
+  - Flask framework
+  
+##### Machine Learning Models used:
+  - Logistic Regression
+  - Decision Tree Classifier
+  - Random Forest Classifier
+  - Passive Agressive Classifier
+  - K-Nearest Neighbor
