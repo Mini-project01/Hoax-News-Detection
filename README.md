@@ -7,7 +7,7 @@
 - Anjali Divekar
 - Amol Gautam
 
-## Usage --
+### Usage --
 
 - Download Zip file.
 - Open CMD in working directory.
